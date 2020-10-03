@@ -1,0 +1,27 @@
+{
+
+  "scheduleTable": [
+    {
+      "startDate": "2018-01-01 00:00",
+      "endDate": "3000-02-08 10:00",
+      "scheduleStage": 0
+    }
+  ],
+  "navMenu": [
+    {
+      "role": -5,
+      "scheduleStage": 0,
+      "options": {
+        "readonly": 0
+      },
+      "menuItems": [
+        [
+          "/login",
+          "ავტორიზაცია",
+          "svg",
+          "icon-log-in"
+        ]
+      ]
+    }
+  ]
+}
